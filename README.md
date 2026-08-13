@@ -196,10 +196,9 @@ National-level innovation challenge contributing to research, ideation, and fina
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ankita2002-ai&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" />
+<img src="https://raw.githubusercontent.com/ankita2002-ai/ankita2002-ai/output/github-trophies.svg" />
 
 </div>
-
 ---
 
 ## Contribution Activity
